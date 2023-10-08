@@ -1,0 +1,19 @@
+# ninja log v5
+16	520	7184740304703180	CMakeFiles/Compiler.dir/Reader.c.obj	136e19acb171b34a
+22	514	7185048549543027	CMakeFiles/GoLite.dir/MainReader.c.obj	e6b024ce04f8e644
+6	520	7184740304703180	CMakeFiles/Compiler.dir/Compilers.c.obj	67783062b53a0e0a
+22	519	7184740304703180	CMakeFiles/Compiler.dir/MainReader.c.obj	6f70cf296e1bd1d8
+5	514	7185048549553004	CMakeFiles/GoLite.dir/Compilers.c.obj	25c2022c8511a3c9
+2	13	0	clean	10cefbc2b3eb0a58
+15	515	7185048549572945	CMakeFiles/GoLite.dir/Reader.c.obj	89ace3ada93628b2
+515	774	7185048551516951	GoLite.exe	821036907fb732cd
+2	14	0	clean	10cefbc2b3eb0a58
+15	532	7185058033855640	CMakeFiles/GoLite.dir/Reader.c.obj	89ace3ada93628b2
+22	533	7185058033865614	CMakeFiles/GoLite.dir/MainReader.c.obj	e6b024ce04f8e644
+6	533	7185058033865614	CMakeFiles/GoLite.dir/Compilers.c.obj	25c2022c8511a3c9
+534	792	7185058035681090	GoLite.exe	821036907fb732cd
+1	13	0	clean	10cefbc2b3eb0a58
+4	247	7185058607590577	CMakeFiles/GoLite.dir/Compilers.c.obj	25c2022c8511a3c9
+18	248	7185058607600561	CMakeFiles/GoLite.dir/MainReader.c.obj	e6b024ce04f8e644
+11	248	7185058607600561	CMakeFiles/GoLite.dir/Reader.c.obj	89ace3ada93628b2
+248	461	7185058609181637	GoLite.exe	821036907fb732cd
