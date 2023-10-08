@@ -1,0 +1,12 @@
+// Volume of a sphere
+func main() {
+    // data section
+    var PI float = 3.14;
+    var r float;
+    var Vol float;
+    
+    // code section
+    fmt.Scan(&r);
+    Vol = (4.0 / 3.0) * PI * (r * r * r);
+    print(Vol);
+}
