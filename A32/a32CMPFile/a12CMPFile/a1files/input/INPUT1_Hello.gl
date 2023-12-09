@@ -1,0 +1,11 @@
+# Golite Example 2:
+// The program is "lexically" correct
+// and should not generate any error
+func main() {
+    // data section (empty in this example)
+    
+    // code section
+    fmt.print("Hello world!");
+}
+}
+}

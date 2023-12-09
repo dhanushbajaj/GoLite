@@ -1,0 +1,14 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "a1files\\code\\out\\build\\x64-debug",
+      "a1files\\code\\out\\install\\x64-debug",
+      "a1files\\code\\out\\build\\x64-release",
+      "a1files\\code\\out\\install\\x64-release",
+      "a1files\\code\\out\\build\\x86-debug",
+      "a1files\\code\\out\\install\\x86-debug",
+      "a1files\\code\\out\\build\\x86-release",
+      "a1files\\code\\out\\install\\x86-release"
+    ]
+  }
+}

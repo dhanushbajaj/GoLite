@@ -1,0 +1,3 @@
+C:/Users/kota0/source/repos/a12CMPFile/a1files/code/out/build/x64-debug/CMakeFiles/GoLite.dir
+C:/Users/kota0/source/repos/a12CMPFile/a1files/code/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/kota0/source/repos/a12CMPFile/a1files/code/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

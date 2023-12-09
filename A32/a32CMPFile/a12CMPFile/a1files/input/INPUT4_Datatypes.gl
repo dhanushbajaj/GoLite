@@ -1,0 +1,16 @@
+// The program is lexically correct about the GoLite city
+func main() {
+    // data section
+    var FoundationYear int
+    var Area float
+    var HDI float
+    var CountryName string
+    
+    // code section
+    FoundationYear = -7000
+    Area = 492.0
+    HDI = 0.871
+    CountryName = "Bulgary"
+    
+    print(CountryName)
+}
